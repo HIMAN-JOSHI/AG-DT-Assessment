@@ -1,0 +1,19 @@
+2024-11-04 15:08:48.185 -05:00 [INF] Adding a comment to post with ID: 1
+2024-11-04 15:08:48.207 -05:00 [INF] Created Post request for posts/1/comments
+2024-11-04 15:08:48.519 -05:00 [INF] Response Status Code: Created
+2024-11-04 15:08:48.520 -05:00 [INF] Response Content: {
+  "postId": "1",
+  "id": 501,
+  "name": "test",
+  "email": "testUser@defaultDomain.com",
+  "body": "Test body..."
+}
+2024-11-04 15:08:48.520 -05:00 [INF] Response Status Code:  Created
+2024-11-04 15:08:48.520 -05:00 [INF] Response Content: {
+  "postId": "1",
+  "id": 501,
+  "name": "test",
+  "email": "testUser@defaultDomain.com",
+  "body": "Test body..."
+}
+2024-11-04 15:08:48.520 -05:00 [INF] Comment successfully added.

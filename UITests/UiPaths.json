@@ -1,0 +1,23 @@
+{
+    "MarketIntelligencePage": {
+        "BenefitHeadingsSection": "//*[@id='post-796']/div/div/section[4]",
+        "DivWithHeadings": ".//div/h3"
+    },
+    "HomePage": {
+        "SolutionsMenu": "//a[text()='Solutions']",
+        "MarketIntelligenceSubmenu": "//a[text()='Market Intelligence']",
+        "LetsGetStartedButton": "//*[@id='get-started-btn']"
+    },
+    "ContactPage": {
+        "ContactForm": "//*[@id=\"gform_1\"]"
+    },
+
+    "exclude": [
+      "**/bin",
+      "**/bower_components",
+      "**/jspm_packages",
+      "**/node_modules",
+      "**/obj",
+      "**/platforms"
+    ]
+}

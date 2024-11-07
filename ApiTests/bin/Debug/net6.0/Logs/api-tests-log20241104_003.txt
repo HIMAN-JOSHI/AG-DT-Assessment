@@ -1,0 +1,6 @@
+2024-11-04 15:08:48.875 -05:00 [INF] Sending request to delete post with ID: 1
+2024-11-04 15:08:48.878 -05:00 [INF] Created Delete request for /posts/1
+2024-11-04 15:08:49.011 -05:00 [INF] Response Status Code: OK
+2024-11-04 15:08:49.012 -05:00 [INF] Response Content: {}
+2024-11-04 15:08:49.012 -05:00 [INF] Response Status Code:  OK
+2024-11-04 15:08:49.012 -05:00 [INF] Response Content: {}

@@ -1,0 +1,28 @@
+2024-11-04 15:08:49.534 -05:00 [INF] Sending request to update post with ID: 555
+2024-11-04 15:08:49.537 -05:00 [INF] Created Put request for /posts/555
+2024-11-04 15:08:49.692 -05:00 [INF] Response Status Code: InternalServerError
+2024-11-04 15:08:49.692 -05:00 [INF] Response Content: TypeError: Cannot read properties of undefined (reading 'id')
+    at update (/app/node_modules/json-server/lib/server/router/plural.js:262:24)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:137:13)
+    at next (/app/node_modules/express/lib/router/route.js:131:14)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:281:22
+    at param (/app/node_modules/express/lib/router/index.js:354:14)
+    at param (/app/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/app/node_modules/express/lib/router/index.js:410:3)
+2024-11-04 15:08:49.693 -05:00 [ERR] Request failed with status InternalServerError: 
+2024-11-04 15:08:49.693 -05:00 [INF] Response Status Code:  InternalServerError
+2024-11-04 15:08:49.693 -05:00 [INF] Response Content: TypeError: Cannot read properties of undefined (reading 'id')
+    at update (/app/node_modules/json-server/lib/server/router/plural.js:262:24)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:137:13)
+    at next (/app/node_modules/express/lib/router/route.js:131:14)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:281:22
+    at param (/app/node_modules/express/lib/router/index.js:354:14)
+    at param (/app/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/app/node_modules/express/lib/router/index.js:410:3)
+2024-11-04 15:08:49.693 -05:00 [ERR] Request failed with status InternalServerError: 

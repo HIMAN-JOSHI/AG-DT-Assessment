@@ -1,0 +1,16 @@
+2024-11-04 15:08:49.332 -05:00 [INF] Sending request to retrieve post with ID: 1
+2024-11-04 15:08:49.337 -05:00 [INF] Created Get request for /posts/1
+2024-11-04 15:08:49.412 -05:00 [INF] Response Status Code: OK
+2024-11-04 15:08:49.412 -05:00 [INF] Response Content: {
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+2024-11-04 15:08:49.412 -05:00 [INF] Response Status Code:  OK
+2024-11-04 15:08:49.412 -05:00 [INF] Response Content: {
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}

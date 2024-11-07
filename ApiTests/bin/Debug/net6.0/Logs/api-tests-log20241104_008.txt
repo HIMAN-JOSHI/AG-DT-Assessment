@@ -1,0 +1,16 @@
+2024-11-04 15:08:49.413 -05:00 [INF] Sending request to update post with ID: 1
+2024-11-04 15:08:49.417 -05:00 [INF] Created Put request for /posts/1
+2024-11-04 15:08:49.533 -05:00 [INF] Response Status Code: OK
+2024-11-04 15:08:49.533 -05:00 [INF] Response Content: {
+  "id": 1,
+  "userId": 1,
+  "title": "Post title updated.",
+  "body": "Body updated..."
+}
+2024-11-04 15:08:49.533 -05:00 [INF] Response Status Code:  OK
+2024-11-04 15:08:49.533 -05:00 [INF] Response Content: {
+  "id": 1,
+  "userId": 1,
+  "title": "Post title updated.",
+  "body": "Body updated..."
+}
