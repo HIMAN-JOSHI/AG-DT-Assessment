@@ -1,8 +1,0 @@
-2024-11-04 15:08:49.257 -05:00 [INF] Sending request to retrieve post with ID: 777
-2024-11-04 15:08:49.260 -05:00 [INF] Created Get request for /posts/777
-2024-11-04 15:08:49.331 -05:00 [INF] Response Status Code: NotFound
-2024-11-04 15:08:49.331 -05:00 [INF] Response Content: {}
-2024-11-04 15:08:49.331 -05:00 [ERR] Request failed with status NotFound: 
-2024-11-04 15:08:49.331 -05:00 [INF] Response Status Code:  NotFound
-2024-11-04 15:08:49.331 -05:00 [INF] Response Content: {}
-2024-11-04 15:08:49.331 -05:00 [ERR] Request failed with status NotFound: 
