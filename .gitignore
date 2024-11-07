@@ -24,3 +24,8 @@ ehthumbs.db
 .vs
 .vscode
 .idea
+
+# Ignore Visual Studio build folders
+bin/
+obj/
+
